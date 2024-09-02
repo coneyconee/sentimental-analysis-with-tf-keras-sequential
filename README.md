@@ -8,8 +8,6 @@ Directory help:
 ./best_model.h5                                 >>> our best model in hdf5 file
 ./preoprocessing-and-training.ipynb             >>> preprocessing and training of the best model
 ./predicting.ipynb                              >>> predicting with our best model
-./OLD-preprocessing-training-predicting.ipynb   >>> our old notebook used for training our first model
-./OLD_sentiment_analysis_model.h5               >>> our old model
 ./training.1600000.processed.noemoticon.csv     >>> the original dataset (from kaggle, sentiment140)
 ./text_save.csv                                 >>> a save of the preprocessed dataset
 
