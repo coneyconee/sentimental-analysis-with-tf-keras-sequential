@@ -1,3 +1,5 @@
+Plese get the dataset yourself from https://www.kaggle.com/datasets/kazanova/sentiment140
+
 SET UP AN ENVIRONMENT BEFORE RUNNING THE NOTEBOOK
 - install conda 24.5.0 from the shell
 - when choosing a kernel in the notebook, set up a new venv with conda 3.11.5 (compatibility issues cos of dropped support in newer versions)
